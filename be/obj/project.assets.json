@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LEGION\\Downloads\\BaiKiemTraKy072025\\be\\be.csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\OneDrive\\Desktop\\BaiKiemTraKy072025\\be\\be.csproj",
       "projectName": "be",
-      "projectPath": "C:\\Users\\LEGION\\Downloads\\BaiKiemTraKy072025\\be\\be.csproj",
+      "projectPath": "C:\\Users\\LEGION\\OneDrive\\Desktop\\BaiKiemTraKy072025\\be\\be.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LEGION\\Downloads\\BaiKiemTraKy072025\\be\\obj\\",
+      "outputPath": "C:\\Users\\LEGION\\OneDrive\\Desktop\\BaiKiemTraKy072025\\be\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config"
